@@ -24,14 +24,14 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <br />
 
-Hi, I'm [Ajay Kumar Pandey](https://r8majay.web.app/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ Mentor 👨🏽‍💼 and a Former Research Intern [@OSIZONE](https://osizone.com/). Beside's programming, I enjoy eating food,music and traveling.
+Hi, I'm [Ajay Kumar Pandey](https://r8majay.web.app/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ Mentor 👨🏽‍💼 and a Former Research Intern [@esoftech](https://www.esoftech.com/). Beside's programming, I enjoy eating food,music and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning MongoDB,ML and project management tools;
+- 🌱 I’m currently learning AWS,ML and project management tools;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ajaypandey](https://twitter.com/im_Ajaypandey);
 - 📝[Resume](https://drive.google.com/file/d/1WfIXy4n9vNXix2ApfAeyhCKYJKmg05fx/view?usp=sharing)
