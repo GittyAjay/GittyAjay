@@ -33,7 +33,7 @@ Hi, I'm [Ajay Kumar Pandey]([https://r8majay.web.app/](https://ajay-portfolio-we
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning AWS,ML and project management tools;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ajaypandey](https://twitter.com/im_Ajaypandey);
+- 📫 How to reach me: [@ajaypandey](https://twitter.com/im_Ajaypandey)
 - 📝[Resume](https://drive.google.com/file/d/1WfIXy4n9vNXix2ApfAeyhCKYJKmg05fx/view?usp=sharing)
 
 **Languages and Tools:**
