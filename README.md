@@ -24,7 +24,8 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <br />
 
-Hi, I'm [Ajay Kumar Pandey]([https://r8majay.web.app/](https://ajay-portfolio-website.vercel.app/)), a Full Stack Developer 🚀 from India, currently, I'm a Software Engineer at [@esoftech](https://www.esoftech.com/). Beside's programming, I enjoy eating food,music and traveling.
+Hi, I'm [Ajay Kumar Pandey](https://ajay-portfolio-website.vercel.app/), a Full Stack Developer 🚀 from India. Currently, I'm a Software Engineer at [@esoftech](https://www.esoftech.com/). Besides programming, I enjoy eating food, listening to music, and traveling.
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
