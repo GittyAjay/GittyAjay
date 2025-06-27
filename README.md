@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/im_Ajaypandey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rightmajay/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ajay_kr___/)
 [![Reddit](https://img.shields.io/badge/Reddit-%FF4500.svg?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/rightmajay)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/GittyAjay/)
-
+<br />
 ![Visitor Count](https://komarev.com/ghpvc/?username=GittyAjay&color=blue)
 
-<br />
+
 
 Hi, I'm [Ajay Kumar Pandey](https://ajayonlive.vercel.app/), a React Native Developer 🚀 with 3.9+ years of experience crafting scalable, performant, and intuitive mobile applications across healthcare, e-commerce, and fintech domains. Currently working at [@esoftech](https://www.esoftech.com/) as a Senior React Native Developer.
 
