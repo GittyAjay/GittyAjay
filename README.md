@@ -21,7 +21,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img align="left" alt="Ajay's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=GittyAjay.GittyAjay)
+![Visitor Count](https://komarev.com/ghpvc/?username=GittyAjay&color=blue)
 
 <br />
 
